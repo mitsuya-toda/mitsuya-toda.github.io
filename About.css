@@ -1,10 +1,14 @@
-
-
-body {
-  background-color: #ddd;
+nav{
+     background-color: #ddd;
+     text-align: center;
+    text-decoration: none;
+     color: #999;
+     font-weight:bold;
 }
-
 nav ul li{
+    margin: 0 20px;
     display: inline-block;
+     
 }
+
 li{color: blue;}
