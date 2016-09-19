@@ -1,0 +1,10 @@
+
+
+body {
+  background-color: #ddd;
+}
+
+nav ul li{
+    display: inline-block;
+}
+li{color: blue;}
